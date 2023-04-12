@@ -1,5 +1,5 @@
 # Computational Complexity
-File num.csv is a 5000 vector of random numbers (7 digits).
+File num.csv is a 10000 vector of random numbers (7 digits).
 
 codes python: https://colab.research.google.com/drive/1BEIOdnJOnMmtqtVuRHHL2ppgTbkRgTXY?usp=sharing
 
